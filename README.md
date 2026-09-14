@@ -26,17 +26,17 @@ The goal of the project was to build a highly interactive dashboard to monitor r
 
 ## Dashboards Preview
 ### 1. Regional Sales & Performance
-![Regional Sales](1_tab_top10_discount.jpg)
-![Regional Sales](1_tab_top10_discount_2026.jpg)
 * *The left chart displays the Top 10 Cities by total revenue, cross-referenced with customer satisfaction ratings (`GOOD` / `BAD` / `OK`).*
 * *The right chart features an interactive map displaying the Top 10 Cities by revenue, broken down by product category penetration.*
+![Regional Sales](1_tab_top10_discount.jpg)
+![Regional Sales](1_tab_top10_discount_2026.jpg)
 
 ### 2. Discount Efficiency & Revenue Trends
+* *The Donut/Pie chart illustrates revenue distribution across 3 custom discount tiers (LOW, MEDIUM, HIGH).*
+* *The Line chart captures chronological revenue trends by discount category, supporting deep-dive analysis via time drill-down (Year -> Month -> Day).*
 ![Discount Trends](2_tab_year.jpg)
 ![Discount Trends](2_tab_month.jpg)
 ![Discount Trends](2_tab_day.jpg)
-* *The Donut/Pie chart illustrates revenue distribution across 3 custom discount tiers (LOW, MEDIUM, HIGH).*
-* *The Line chart captures chronological revenue trends by discount category, supporting deep-dive analysis via time drill-down (Year -> Month -> Day).*
 
 ## Skills Demonstrated
 * **Advanced BI Visualization:** Configuring interactive geospatial point layers, establishing dynamic cross-widget filtering, and engineering custom `Navigation Paths` for multi-level hierarchical drill-downs.
