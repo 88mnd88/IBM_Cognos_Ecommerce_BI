@@ -47,4 +47,4 @@ The goal of the project was to build a highly interactive dashboard to monitor r
 
 ## 🤖 AI Collaboration
 ---
-*This project was developed in active collaboration with an AI assistant. AI was utilized as a technical co-pilot to research optimized workarounds for IBM Cognos Analitycs (for instance, a cinditional `CASE` statement), polish business metrics terminology, and refine documentation structure.*
+*This project was developed in active collaboration with an AI assistant. AI was utilized as a technical co-pilot to research optimized workarounds for IBM Cognos Analytics (for instance, a conditional `CASE` statement), polish business metrics terminology, and refine documentation structure.*
